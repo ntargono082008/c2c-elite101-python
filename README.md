@@ -17,4 +17,4 @@ in the browser or in a local installation of vs code) for more info [go here](ht
 3. To run the starter program, in a terminal run python main.py, or open the main.py file and click the play button at the top right of the editor
 ![Screenshot](codespace_run_file.png)
 
-this is a new commit message nathan
+this is a commit message by nathan and ryan
